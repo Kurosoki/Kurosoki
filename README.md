@@ -1,7 +1,7 @@
 ### Welcom There 👋
 
 - 🦔 I'm currently learning web development 
-- 🔥 I'm currently working on a bot discord named IAKuro: in collaboration with @Maxmistral
+- 🔥 I'm currently working on a bot discord named IAKuro in collaboration with @Maxmistral
 - 🤔 I'm looking for help to move forward on the bot, here's my discord : http://discord.gg/SB5MTk5BYT 
 - 🤝You can support our project on patreon: https://www.patreon.com/IAKuro?fan_landing=true
 - 🖋️ I am an artist, you can ask me for a commission
