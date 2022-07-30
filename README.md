@@ -1,11 +1,11 @@
 ### Welcom There 👋
 
 - 🌱 I'm currently learning web development 
-🔭 I'm currently working on a bot discord named IAKuro: in collaboration with @Maxmistral
+-🔭 I'm currently working on a bot discord named IAKuro: in collaboration with @Maxmistral
 - 🤔 I'm looking for help to move forward on the bot, here's my discord : 
-- 💬You can support our project on patreon: 
-- 👯 I am an artist, you can ask me for a commission
-- I have an art portfolio or you can still see my work on Instagram
+- 💬You can support our project on patreon: https://www.patreon.com/IAKuro?fan_landing=true
+- 🖋️ I am an artist, you can ask me for a commission
+- 🎌 I have an art portfolio or you can still see my work on Instagram
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
